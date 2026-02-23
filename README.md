@@ -1,4 +1,8 @@
 # 🩺 Early Glaucoma Screening Using YOLO and Deep Features from Fundus Images
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Object%20Detection-red)
+![ResNet50](https://img.shields.io/badge/ResNet50-Deep%20Learning-orange)
+![Deep Learning](https://img.shields.io/badge/AI-Healthcare-purple)
 
 <p align="center">
 Automated Deep Learning Framework for Robust Glaucoma Detection  
@@ -169,13 +173,27 @@ YOLOv8 robustly segments optic disc and cup regions for both normal and glaucoma
 
 ---
 
-# 🚀 Future Work
 
-- Multi-modal integration (OCT + Fundus)
-- Lightweight deployment for edge devices
-- Explainable AI integration
-- Longitudinal glaucoma progression tracking
-- Expanded demographic diversity
+## 📁 Dataset Access
+
+Datasets used:
+- DRISHTI-GS
+- ORIGA
+- G1020
+
+Due to licensing restrictions, datasets are not included in this repository.
+
+---
+
+## 📄 Citation
+
+If you use this work, please cite:
+
+@inproceedings{Singh2025Glaucoma,
+  title={Early Glaucoma Screening Using YOLO and Deep Features from Fundus Images},
+  author={Singh, Lavanya and Singh, Divyanshi and Tagore, Nirbhay Kumar and Singh, Y. N.},
+  year={2025}
+}
 
 ---
 
